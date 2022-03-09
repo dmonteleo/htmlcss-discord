@@ -26,6 +26,33 @@
 }
 
 header {
-  height: 100px;
+  /* height: 100px; */
   background-color: red;
 }
+
+section:first-child {
+  background-image: url('/assets/img/jumbo.png');
+  background-position: center;
+  background-size: cover;
+}
+
+/* .logo {
+  display: inline;
+} */
+
+nav {
+  background-color: green;
+}
+
+nav li {
+  display: inline-block;
+}
+
+li {
+  background-color:blue;
+}
+
+.accedi {
+  background-color: yellow;
+}
+
