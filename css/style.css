@@ -26,8 +26,11 @@
 }
 
 header {
-  /* height: 100px; */
+  height: 100px;
   background-color: red;
+  position: relative;
+  line-height: 100px;
+  text-align: center;
 }
 
 section:first-child {
@@ -36,12 +39,13 @@ section:first-child {
   background-size: cover;
 }
 
-/* .logo {
-  display: inline;
-} */
+.logo {
+  background-color:yellow;
+}
 
 nav {
   background-color: green;
+  display: inline-block;
 }
 
 nav li {
@@ -54,5 +58,9 @@ li {
 
 .accedi {
   background-color: yellow;
+  /* position: absolute;
+  right: 0;
+  top: 0; */
+  /* line-height: 100%; */
 }
 
