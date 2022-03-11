@@ -34,7 +34,7 @@
   vertical-align: middle;
 }
 
-btn {
+.btn {
   display: inline-block;
   background-color: white;
   padding: 7px 15px;
@@ -61,7 +61,7 @@ btn {
 /* DEBUG */
 
 .debug {
-  background-color: rgba(255, 0, 0, .2)
+  background-color: rgba(255, 0, 0, .2);
   border: 1px solid black;
 }
 
