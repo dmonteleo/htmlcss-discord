@@ -1,12 +1,12 @@
 /* HEADER */
 header {
-  height: 80px;
+  /* height: 80px; */
   background-color: #3161E0;
   line-height: 80px;
   color: white;
 }
 .menu {
-  width: calc(100%-197px);
+  width: calc(100% - 197px);
 }
 nav li {
   display: inline-block;
