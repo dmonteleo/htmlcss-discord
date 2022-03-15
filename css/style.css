@@ -70,6 +70,25 @@ main {
   padding-left: 40px;
   text-align: justify;
 }
+
+.text-col p, .text-col h2 {
+  padding: 40px;
+}
+
+.text-col h2 {
+  font-size: 40px;
+}
+
+/* section:nth-child(2) {
+  background-color: #f6f6f6;
+  background-color: red;
+} */
+
+main section {
+  /* background-color: red; */
+  /* color: red; */
+}
+
 /* FOOTER */
 
 .footer-col {
