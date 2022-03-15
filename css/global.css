@@ -15,3 +15,12 @@ a {
 ul {
   list-style: none;
 }
+
+.wave svg {
+  color: #f6f6f6;
+  display: block;
+}
+
+.wave.down {
+  transform: rotate(180deg);
+}
