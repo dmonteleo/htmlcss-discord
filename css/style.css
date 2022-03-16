@@ -91,6 +91,11 @@ main section {
 
 /* FOOTER */
 
+footer {
+  background-color: #23272a;
+  color: white;
+}
+
 .footer-col {
   width: calc(100% / 6);
 }
