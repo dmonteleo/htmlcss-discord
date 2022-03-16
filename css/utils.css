@@ -58,6 +58,10 @@
   color: #3161E0;
 }
 
+.relative {
+  position: relative;
+}
+
 /* DEBUG */
 
 /* .debug {
@@ -65,7 +69,7 @@
   border: 1px solid black;
 } */
 
-.h100 {
+/* .h100 {
   min-height: 100px;
 }
 
@@ -75,4 +79,4 @@
 
 .h500 {
   min-height: 500px;
-}
+} */

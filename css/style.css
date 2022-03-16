@@ -104,7 +104,34 @@ footer {
   width: calc(100% / 3); 
 }
 
+footer li {
+  margin: 10px;
+}
 
+footer .container {
+  padding-top: 80px;
+}
 
+footer ul li:first-of-type, footer h3 {
+  color: #7086d6;
+}
 
+hr {
+  color: #7086d6;
+  background: #7086d6;
+  border: 0;
+  height: 1px;
+  margin-bottom: 40px;
+}
+
+.register-btn .btn {
+  background-color: #8ea1e1;
+  color: white;
+  font-weight: 600;
+}
+
+.register-btn {
+  position: absolute;
+  right: 0;
+}
 
