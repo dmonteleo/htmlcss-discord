@@ -143,8 +143,23 @@ footer h3 {
   font-size: xx-large;
 }
 
-.place, .language, .brands {
+.place, .tongue, .brands {
   margin: 25px;
+}
+
+#language {
+  /* background-color: red; */
+  line-height: 30px;
+  height: 30px;
+  /* text-align: center; */
+  /* display: inline-block;
+  vertical-align: middle; */
+  display: flex;
+  align-items: center;
+}
+
+#language img {
+  margin-right: -35px;
 }
 
 footer i {

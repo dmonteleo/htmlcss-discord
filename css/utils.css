@@ -81,6 +81,11 @@
   border: 1px solid black;
 } */
 
+.debug2 {
+  background-color: rgba(0, 255, 0, .2);
+  border: 1px solid black;
+}
+
 /* .h100 {
   min-height: 100px;
 }
