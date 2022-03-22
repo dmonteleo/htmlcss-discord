@@ -75,13 +75,21 @@ main {
   padding: 40px;
 }
 
-.text-col h2 {
+.text-col h2, .text-center h2 {
   font-size: 40px;
+}
+
+.text-center p {
+  margin-top: 20px;
 }
 
 main h3 {
   font-weight: 700;
   background-image: url('../assets/img/stars.svg');
+}
+
+main section:nth-of-type(even) {
+  background-color: #f6f6f6;
 }
 
 /* FOOTER */
