@@ -159,7 +159,8 @@ footer h3 {
 }
 
 #language img {
-  margin-right: -35px;
+  margin-right: -40px;
+  transform: scale(.4);
 }
 
 footer i {
